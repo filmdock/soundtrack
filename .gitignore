@@ -1,0 +1,12 @@
+# spazio di lavoro e uscite del costruttore
+/work/
+/out/
+node_modules/
+*.tar.bz2
+*.sqlite
+*.sqlite.gz
+*.sig
+# chiavi: mai nel repo
+*.pem
+*.key
+*.der
